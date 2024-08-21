@@ -3,8 +3,6 @@
 	"EngineAssociation": "5.4",
 	"Category": "Samples",
 	"Description": "",
-	"Modules": [
-	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -44,6 +42,10 @@
 		{
 			"Name": "LiveLink",
 			"Enabled": true
+		},
+		{
+			"Name": "RLPlugin",
+			"Enabled": false
 		}
 	],
 	"EpicSampleNameHash": "1673045636"
